@@ -5,45 +5,40 @@
 
 ---
 
-## 🚀 Sobre mim  
-- Em transição de carreira para a área de tecnologia  
-- Apaixonado por aprender e aplicar novos conhecimentos em programação e segurança  
-- Buscando oportunidades para desenvolver projetos práticos e colaborar com a comunidade  
-- Focado em construir uma carreira sólida em *Segurança da Informação*  
-
----
-
-## 📚 Atualmente estudando  
-- Lógica de Programação  
-- Python  
-- Redes de Computadores  
-- Fundamentos de Segurança da Informação  
-
----
-
-## 🎯 Objetivos de carreira  
+## 💼 Objetivos de carreira  
 - Atuar na área de *Segurança da Informação* com foco em Cibersegurança e Proteção de Dados  
 - Desenvolver habilidades em *Pentest, Criptografia e Análise de Vulnerabilidades*  
 - Contribuir com projetos que impactem positivamente pessoas e empresas através da tecnologia  
 
----
 
-## 📂 Projetos em andamento  
-- [ ] Exercícios de lógica e programação em Python  
-- [ ] Laboratórios de redes e segurança (TryHackMe / HackTheBox)  
-- [ ] Repositório com anotações e estudos da graduação em ADS  
-
----
-
-## 🛠️ Tecnologias e ferramentas em aprendizado  
-- *Linguagens:* Python, Java (básico)  
-- *Sistemas:* Linux, Windows Server  
-- *Redes:* Fundamentos de TCP/IP, Firewalls, VPNs  
-- *Ferramentas de Segurança:* Wireshark, Nmap, Kali Linux (em aprendizado)  
+## 🎯 Disciplinas deste semestre
+- **Design Profissional**
+- **Algoritmos e Pensamento Computacional**
+- **Desenvolvimento Front-End para Web**
+- **Modelagem de Banco de Dados**
 
 ---
 
+## 🛠️ Objetivo deste repositório
+- Organizar anotações e exercícios das disciplinas
+- Guardar pequenos projetos e testes de código
+- Registrar minha evolução como estudante
+
+---
+
+## 📅 Status de aprendizado
+| Disciplina | Status |
+|------------|--------|
+| Design Profissional | 🔄 Em andamento |
+| Algoritmos e Pensamento Computacional | ⏳ A iniciar |
+| Front-End para Web | ⏳ A iniciar |
+| Modelagem de Banco de Dados | ⏳ A iniciar |
+
+---
+
+## 📌 Atualizações
+📅 **Agosto/2025:** Início do curso e primeiras atividades 
 
 
-⭐ Sempre em busca de novos desafios e aprendizados na área de *Segurança da Informação* 🚀
+---
 
