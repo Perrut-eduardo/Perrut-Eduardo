@@ -43,11 +43,7 @@
 
 ---
 
-## 📫 Contato  
-- LinkedIn: www.linkedin.com/in/eduardoperrut
-- E-mail: perrutads@gmail.com  
 
----
 
 ⭐ Sempre em busca de novos desafios e aprendizados na área de *Segurança da Informação* 🚀
 
